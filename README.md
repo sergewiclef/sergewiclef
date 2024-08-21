@@ -1,7 +1,9 @@
 ## I am Serge M. WICLEF
 
+
 A Cloud Engineer with 15+ years of experience in Azure, Microsoft 365, virtualization, Exchange and systems administration. Passionate about helping organizations adopt cloud technologies seamlessly and effectively. Seeking remote cloud architect opportunities.
-Key Skills and Expertise:
+
+### Key Skills and Expertise:
 - Cloud Engineering
 - Azure and Microsoft 365
 - Virtualization
@@ -9,7 +11,7 @@ Key Skills and Expertise:
 - Storage systems
 - Leaderships and consulting
   
-Awards and Certifications:
+### Awards and Certifications:
 - Microsoft Azure Administrator Associate
 - VMware Certified Professional
 - Microsoft 365 Fundamentals
